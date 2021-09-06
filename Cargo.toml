@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2018"
 license = "Apache-2.0"
 description = "Rust wrapper for Facebook's CacheLib(it's under construction)"
+repository = "https://github.com/altanozlu/rust-cachelib"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
